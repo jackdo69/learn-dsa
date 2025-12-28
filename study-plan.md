@@ -19,7 +19,7 @@ This plan organizes your 75 patterns into a progressive learning path, building 
 ### Day 1-2: Core Foundations
 - **Day 1:** Time Complexity + Maths (base systems, modular arithmetic)
   - *Why:* Understanding complexity is critical for optimization discussions
-  - *Notes:* `/notes/DSA patterns/` - Time Complexity, Maths patterns
+  - *Notes:* `/notes/patterns/` - Time Complexity, Maths patterns
 
 - **Day 2:** Bitwise Operations + Logarithms, Permutations, Subsets
   - *Why:* Bit manipulation appears in optimization problems

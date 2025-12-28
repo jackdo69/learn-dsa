@@ -1,6 +1,6 @@
 # Practice Tracker
 
-Track your mastery of all 75 DSA patterns. Update this file as you progress through your study plan.
+Track your mastery of all 75 patterns. Update this file as you progress through your study plan.
 
 ## How to Use This Tracker
 

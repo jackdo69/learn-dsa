@@ -25,13 +25,13 @@ learn-dsa/
 │
 └── 📚 Notes
     └── notes/
-        ├── DSA patterns/              # 75 pattern implementations
+        ├── patterns/              # 75 pattern implementations
         │   ├── Arrays & Strings
         │   ├── Trees & Graphs
         │   ├── Dynamic Programming
         │   ├── Backtracking & Greedy
         │   └── Advanced Data Structures
-        └── DSA patterns [index].md    # Original pattern index
+        └── patterns [index].md    # Original pattern index
 ```
 
 ## Quick Start
